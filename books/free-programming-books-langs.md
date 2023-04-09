@@ -2,6 +2,7 @@
 
 Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language.
 That section got so big, we decided to split it into its own file, the [BY SUBJECT file](free-programming-books-subjects.md).
+Books on general-purpose programming that don't focus on a specific language are in listed in the subject "Programming". Books on specialized topics are listed in their own sub-sections.
 
 
 ### Index
@@ -509,7 +510,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### <a id="cpp"></a>C++
 
-* [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX) (:construction: *in process*)
+* [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX)
 * [C++ Annotations](https://fbb-git.gitlab.io/cppannotations) - Frank B. Brokken (HTML, PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - `edt.:` Bjarne Stroustrup, Herb Sutter
 * [C++ For Programmers](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) - JT Kalnay (PDF)
@@ -712,7 +713,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Phoenix
 
 * [Phoenix Framework Guide](https://hexdocs.pm/phoenix/overview.html) (HTML)
-* [Versioned APIs with Phoenix](https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) - Elvio Vicosa (PDF)
+* [Versioned APIs with Phoenix](https://web.archive.org/web/20210309052043/https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) - Elvio Vicosa (PDF) *(:card_file_box: archived)*
 
 
 ### Embedded Systems
@@ -2129,17 +2130,17 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) - Colin Gillespie, Robin Lovelace
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman, George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman, Hadley Wickham
-* [Geocomputation with R](https://geocompr.robinlovelace.net) - RobinLovelace, Jakub Nowosad, Jannes Muenchow
+* [Geocomputation with R](https://r.geocompx.org) - Robin Lovelace, Jakub Nowosad, Jannes Muenchow
 * [Introduction to Probability and Statistics Using R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson 
 * [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay, Albert Y. Kim
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
-* [R for Data Science](http://r4ds.had.co.nz) - Garrett Grolemund, Hadley Wickham
+* [R for Data Science](https://r4ds.hadley.nz) - Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund
 * [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [R Language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers) - John D. Cook
 * [R Notes for Professionals](https://goalkicker.com/RBook/) - Compiled from StackOverflow Documentation (PDF)
-* [R Packages](http://r-pkgs.had.co.nz) - Hadley Wickham
+* [R Packages](https://r-pkgs.org) - Hadley Wickham, Jenny Bryan
 * [R Practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](https://en.wikibooks.org/wiki/R_Programming) - Wikibooks
 * [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) - Roger D. Peng 
@@ -2150,6 +2151,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
+* [Tidy Modelling with R](https://www.tmwr.org) - Max Kuhn and Julia Silge
 * [Tidy Text Mining with R](http://tidytextmining.com) - Julia Silge, David Robinson
 
 
